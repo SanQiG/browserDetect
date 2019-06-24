@@ -220,7 +220,7 @@ function mime(option, value) {
 
 ​	经过整个学习整理过程，我觉得一句话可以概况：**星星之火，可以燎原。**其实再小的一个知识点，你可能知道它是什么，但是不一定知道背后的历史渊源。就比如说本章的 UA 字符串，我觉得它从一定程度上就代表了浏览器的发展历史，从小小的 UA 字符串的变化，映射到整个浏览器界的进步。
 
-​	我把代码汇总到了自己的GitHub：[浏览器识别]()
+​	我把代码汇总到了自己的GitHub：[浏览器识别](https://github.com/SanQiG/browserDetect/blob/master/browserDetect.js)
 
 ## 参考
 
