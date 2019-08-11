@@ -4,8 +4,8 @@
  */
 function checkBrowser() {
   var ua = window.navigator.userAgent;
-	var isChrome        = ua.indexOf('Chrome') !== -1 && window.chrome,
-  		isFirefox       = ua.indexOf('Firefox') !== -1,
+  var isChrome        = ua.indexOf('Chrome') !== -1 && window.chrome,
+      isFirefox       = ua.indexOf('Firefox') !== -1,
       isOpera         = ua.indexOf('OPR') !== -1,
       isSafari        = ua.indexOf('Safari') !== -1 && ua.indexOf('Version') !== -1,
       isEdge          = ua.indexOf('Edge') !== -1,
